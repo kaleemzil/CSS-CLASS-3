@@ -31,3 +31,6 @@ button{
 button:active{
     background-color: chartreuse;
 }
+P{
+    color: aliceblue;
+}
