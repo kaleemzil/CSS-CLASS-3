@@ -1,0 +1,33 @@
+p{
+    font-weight: bold;
+    font-size: 13px;
+    font-style: italic;
+    text-transform:capitalize;
+    text-decoration:underline;
+    line-height: 50px;
+    letter-spacing: 12px;
+    text-align: justify;  
+
+}
+h1 a{
+    text-decoration: none;
+    color: yellow;
+    text-shadow: 2px 2px 6px black;
+}
+.text{
+    text-indent:50px;
+}
+h1::first-letter{
+
+}
+
+a::visited{
+    color: sienna;
+}
+button{
+    color: blue;
+    background-color: black;
+}
+button:active{
+    background-color: chartreuse;
+}
